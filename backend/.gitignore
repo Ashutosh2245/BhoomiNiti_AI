@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Database
+*.db
+
+# Environment variables
+.env
+
+# Generated reports
+backend/uploads/
+
+# Frontend dependencies
+frontend/node_modules/
+
+# Build files
+frontend/dist/
+frontend/build/
